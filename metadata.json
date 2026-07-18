@@ -1,0 +1,6 @@
+{
+  "name": "QRBoxi",
+  "description": "A minimalist, dark-themed offline QR code generator for URLs with high-quality PNG export, created by Creophagous ®.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
